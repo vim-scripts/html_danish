@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1163
+
+Useful for people developing Danish (or perhaps Norwegian) websites in HTML or PHP.
+
+Upon loading a HTML or PHP-file, this script replaces all instances of the HTML entities of the Danish characters (aelig, oslash, aring) with the normal characters (æ,ø,å) for easy reading.
+
+Upon saving the normal Danish characters are replaced with the HTML encoded.
+
+Inspired by the html_umlaute: vimscript #907  and the html_portuguese: vimscript #924
